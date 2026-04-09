@@ -1,5 +1,6 @@
 import os
 
+
 URL_POSITION = "https://www.zyctd.com/jiage/1-0-0-{}.html"
 
 DATE_PATH = os.path.join(os.getcwd() + '\\data', '药材数据_{}.{}')
